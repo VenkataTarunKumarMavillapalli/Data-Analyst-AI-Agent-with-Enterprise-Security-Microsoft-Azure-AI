@@ -4,7 +4,8 @@
   </h1>
   <p><strong>Analyze data and revenue trends to identify prescriptive insights & sales improvement opportunities.</strong></p>
   <br>
-  
+</div>
+
 ### Architecture Diagram
 ![Sales Analyst Architecture](src/solution_accelerators/sales_analyst/docs/images/sales_analyst_architecture_diagram.png)
 
