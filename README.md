@@ -97,7 +97,3 @@ Sample Dataset: **sample_sales_data_united_states.csv**. Access to sample sales 
  
 Both the sample datasets mentioned above are using synthetic data.
 License: Released under CDLA-2.0 (https://cdla.dev/permissive-2-0/).
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
