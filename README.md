@@ -6,7 +6,7 @@
   <br>
 </div>
 
-### Architecture Diagram
+## Architecture Diagram
 ![Sales Analyst Architecture](src/solution_accelerators/sales_analyst/docs/images/sales_analyst_architecture_diagram.png)
 
 ## 🚀 Overview
